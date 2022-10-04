@@ -1,0 +1,29 @@
+body {
+background-image: url("Shanghai Film.Jpg");
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+height: 200px;
+position: relative;
+}
+
+
+#tool {
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+h1, p {
+   text-align: center;
+}
+
+#button-stop {
+    display: block;
+    margin: 0 auto;
+}
